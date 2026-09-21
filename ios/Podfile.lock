@@ -1,0 +1,99 @@
+PODS:
+  - app_tracking_transparency (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_inappwebview_ios (0.0.1):
+    - Flutter
+    - flutter_inappwebview_ios/Core (= 0.0.1)
+    - OrderedSet (~> 6.0.3)
+  - flutter_inappwebview_ios/Core (0.0.1):
+    - Flutter
+    - OrderedSet (~> 6.0.3)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_timezone (0.0.1):
+    - Flutter
+  - Google-Mobile-Ads-SDK (13.10.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (9.1.0):
+    - Flutter
+    - Google-Mobile-Ads-SDK (~> 13.7)
+    - webview_flutter_wkwebview
+  - GoogleUserMessagingPlatform (3.1.0)
+  - OrderedSet (6.0.3)
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - app_tracking_transparency (from `.symlinks/plugins/app_tracking_transparency/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_inappwebview_ios (from `.symlinks/plugins/flutter_inappwebview_ios/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_timezone (from `.symlinks/plugins/flutter_timezone/ios`)
+  - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - OrderedSet
+
+EXTERNAL SOURCES:
+  app_tracking_transparency:
+    :path: ".symlinks/plugins/app_tracking_transparency/ios"
+  Flutter:
+    :path: Flutter
+  flutter_inappwebview_ios:
+    :path: ".symlinks/plugins/flutter_inappwebview_ios/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_timezone:
+    :path: ".symlinks/plugins/flutter_timezone/ios"
+  google_mobile_ads:
+    :path: ".symlinks/plugins/google_mobile_ads/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite_darwin:
+    :path: ".symlinks/plugins/sqflite_darwin/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/darwin"
+
+SPEC CHECKSUMS:
+  app_tracking_transparency: 3d84f147f67ca82d3c15355c36b1fa6b66ca7c92
+  Flutter: 71a624a5bc0c04062bf19101d501e466baf2fb47
+  flutter_inappwebview_ios: b89ba3482b96fb25e00c967aae065701b66e9b99
+  flutter_local_notifications: 643a3eda1ce1c0599413ca31672536d423dee214
+  flutter_timezone: 7c838e17ffd4645d261e87037e5bebf6d38fe544
+  Google-Mobile-Ads-SDK: 8e764c4990ef82c2727fd32e0c4143817b443603
+  google_mobile_ads: 6b1c16497394528f4a59e76e2fc947cb32b101e2
+  GoogleUserMessagingPlatform: befe603da6501006420c206222acd449bba45a9c
+  OrderedSet: e539b66b644ff081c73a262d24ad552a69be3a94
+  share_plus: 50da8cb520a8f0f65671c6c6a99b3617ed10a58a
+  shared_preferences_foundation: 7036424c3d8ec98dfe75ff1667cb0cd531ec82bb
+  sqflite_darwin: 20b2a3a3b70e43edae938624ce550a3cbf66a3d0
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+  webview_flutter_wkwebview: 8ebf4fded22593026f7dbff1fbff31ea98573c8d
+
+PODFILE CHECKSUM: 2059828e8bc1750d14eb044defe1bb299f379d25
+
+COCOAPODS: 1.17.0
